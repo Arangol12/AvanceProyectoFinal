@@ -1,0 +1,60 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Pagina1.master.cs" Inherits="CapaPresentacion.Pagina1" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+     <%--<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" />--%>
+     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" />
+
+    
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title>Aplicaciones Web-4to ETI</title>
+    <link rel="shortcut icon" type="image/x-icon" href="/imagenes/logosise.ico" />
+      <style type="text/css">
+         .auto-style2 {
+              width: 100%;
+              -ms-flex: 0 0 100%;
+              flex: 0 0 100%;
+              max-width: 100%;
+              text-align: center;
+              padding-left: 15px;
+              padding-right: 15px;
+              height: 30px;
+              background-color:#2471A3;
+              padding:5px 0px;
+          }
+          footer {
+                margin-top:10px;
+                position: relative;
+                
+                padding:5px 0px;
+                clear: both;
+                background-color:white;
+                text-align: right;
+    }
+  </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div class="container">
+           <div class="row" style="margin-top:10px;margin-bottom:10px" >
+            
+            </div> 
+           
+            </div> 
+        <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">
+
+        </asp:ContentPlaceHolder>
+          <!-- Pie de pagina -->
+    
+
+        
+
+
+    
+    </form>
+</body>
+
+</html>

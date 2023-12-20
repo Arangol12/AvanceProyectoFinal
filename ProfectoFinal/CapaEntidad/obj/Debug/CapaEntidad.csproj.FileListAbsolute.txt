@@ -1,0 +1,12 @@
+D:\PROGRAMCION WEB\ProfectoFinal\CapaEntidad\bin\Debug\CapaEntidad.dll
+D:\PROGRAMCION WEB\ProfectoFinal\CapaEntidad\bin\Debug\CapaEntidad.pdb
+D:\PROGRAMCION WEB\ProfectoFinal\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+D:\PROGRAMCION WEB\ProfectoFinal\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+D:\PROGRAMCION WEB\ProfectoFinal\CapaEntidad\obj\Debug\CapaEntidad.dll
+D:\PROGRAMCION WEB\ProfectoFinal\CapaEntidad\obj\Debug\CapaEntidad.pdb
+E:\PROGRAMACION WEB 4 CICLO\ProfectoFinal\CapaEntidad\bin\Debug\CapaEntidad.dll
+E:\PROGRAMACION WEB 4 CICLO\ProfectoFinal\CapaEntidad\bin\Debug\CapaEntidad.pdb
+E:\PROGRAMACION WEB 4 CICLO\ProfectoFinal\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+E:\PROGRAMACION WEB 4 CICLO\ProfectoFinal\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+E:\PROGRAMACION WEB 4 CICLO\ProfectoFinal\CapaEntidad\obj\Debug\CapaEntidad.dll
+E:\PROGRAMACION WEB 4 CICLO\ProfectoFinal\CapaEntidad\obj\Debug\CapaEntidad.pdb

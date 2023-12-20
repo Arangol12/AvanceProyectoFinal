@@ -1,0 +1,22 @@
+D:\PROGRAMCION WEB\ProfectoFinal\CapaNegocio\bin\Debug\CapaNegocio.dll
+D:\PROGRAMCION WEB\ProfectoFinal\CapaNegocio\bin\Debug\CapaNegocio.pdb
+D:\PROGRAMCION WEB\ProfectoFinal\CapaNegocio\bin\Debug\CapaDatos.dll
+D:\PROGRAMCION WEB\ProfectoFinal\CapaNegocio\bin\Debug\CapaEntidad.dll
+D:\PROGRAMCION WEB\ProfectoFinal\CapaNegocio\bin\Debug\CapaDatos.pdb
+D:\PROGRAMCION WEB\ProfectoFinal\CapaNegocio\bin\Debug\CapaEntidad.pdb
+D:\PROGRAMCION WEB\ProfectoFinal\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+D:\PROGRAMCION WEB\ProfectoFinal\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+D:\PROGRAMCION WEB\ProfectoFinal\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+D:\PROGRAMCION WEB\ProfectoFinal\CapaNegocio\obj\Debug\CapaNegocio.dll
+D:\PROGRAMCION WEB\ProfectoFinal\CapaNegocio\obj\Debug\CapaNegocio.pdb
+E:\PROGRAMACION WEB 4 CICLO\ProfectoFinal\CapaNegocio\bin\Debug\CapaNegocio.dll
+E:\PROGRAMACION WEB 4 CICLO\ProfectoFinal\CapaNegocio\bin\Debug\CapaNegocio.pdb
+E:\PROGRAMACION WEB 4 CICLO\ProfectoFinal\CapaNegocio\bin\Debug\CapaDatos.dll
+E:\PROGRAMACION WEB 4 CICLO\ProfectoFinal\CapaNegocio\bin\Debug\CapaEntidad.dll
+E:\PROGRAMACION WEB 4 CICLO\ProfectoFinal\CapaNegocio\bin\Debug\CapaDatos.pdb
+E:\PROGRAMACION WEB 4 CICLO\ProfectoFinal\CapaNegocio\bin\Debug\CapaEntidad.pdb
+E:\PROGRAMACION WEB 4 CICLO\ProfectoFinal\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+E:\PROGRAMACION WEB 4 CICLO\ProfectoFinal\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+E:\PROGRAMACION WEB 4 CICLO\ProfectoFinal\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+E:\PROGRAMACION WEB 4 CICLO\ProfectoFinal\CapaNegocio\obj\Debug\CapaNegocio.dll
+E:\PROGRAMACION WEB 4 CICLO\ProfectoFinal\CapaNegocio\obj\Debug\CapaNegocio.pdb

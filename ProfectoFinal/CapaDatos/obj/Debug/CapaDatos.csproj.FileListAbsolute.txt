@@ -1,0 +1,18 @@
+D:\PROGRAMCION WEB\ProfectoFinal\CapaDatos\bin\Debug\CapaDatos.dll
+D:\PROGRAMCION WEB\ProfectoFinal\CapaDatos\bin\Debug\CapaDatos.pdb
+D:\PROGRAMCION WEB\ProfectoFinal\CapaDatos\bin\Debug\CapaEntidad.dll
+D:\PROGRAMCION WEB\ProfectoFinal\CapaDatos\bin\Debug\CapaEntidad.pdb
+D:\PROGRAMCION WEB\ProfectoFinal\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+D:\PROGRAMCION WEB\ProfectoFinal\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+D:\PROGRAMCION WEB\ProfectoFinal\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+D:\PROGRAMCION WEB\ProfectoFinal\CapaDatos\obj\Debug\CapaDatos.dll
+D:\PROGRAMCION WEB\ProfectoFinal\CapaDatos\obj\Debug\CapaDatos.pdb
+E:\PROGRAMACION WEB 4 CICLO\ProfectoFinal\CapaDatos\bin\Debug\CapaDatos.dll
+E:\PROGRAMACION WEB 4 CICLO\ProfectoFinal\CapaDatos\bin\Debug\CapaDatos.pdb
+E:\PROGRAMACION WEB 4 CICLO\ProfectoFinal\CapaDatos\bin\Debug\CapaEntidad.dll
+E:\PROGRAMACION WEB 4 CICLO\ProfectoFinal\CapaDatos\bin\Debug\CapaEntidad.pdb
+E:\PROGRAMACION WEB 4 CICLO\ProfectoFinal\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+E:\PROGRAMACION WEB 4 CICLO\ProfectoFinal\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+E:\PROGRAMACION WEB 4 CICLO\ProfectoFinal\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+E:\PROGRAMACION WEB 4 CICLO\ProfectoFinal\CapaDatos\obj\Debug\CapaDatos.dll
+E:\PROGRAMACION WEB 4 CICLO\ProfectoFinal\CapaDatos\obj\Debug\CapaDatos.pdb
